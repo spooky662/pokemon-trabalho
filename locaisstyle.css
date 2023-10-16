@@ -46,10 +46,8 @@ h1 {
 }
 
 .grid-container {
-    margin: 8px;
     display: grid;
-    grid-template-columns: 1fr, 1fr, 1fr;
-    text-align: center;
-    font-style: bold;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 0 8px;
     gap: 20px;
 }
