@@ -46,7 +46,7 @@ h1 {
 }
 
 .grid-container {
-    margin: 8px;
+    margin: 0 8px;
     display: grid;
     text-align: center;
     font-style: bold;
