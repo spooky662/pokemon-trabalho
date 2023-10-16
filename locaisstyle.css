@@ -51,5 +51,5 @@ h1 {
     text-align: center;
     font-style: bold;
     gap: 20px;
-    grid-template-columns: repeat(auto-fill, minmax(1fr, 1fr));
+    grid-template-columns: 1fr, 1fr, 1fr;
 }
